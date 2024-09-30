@@ -1,0 +1,30 @@
+.login-container{
+    text-align: right;
+    background-color:rgba(0, 0, 0, 0) ;
+    padding: 40px 25px;
+    height: 340px;
+    width: 250px;
+    position: absolute;
+    border-radius: 10px;
+    top: 50%;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    background: linear-gradient(to top,rgba(0,0,0,0)50%);
+
+}
+
+.form{
+    background-color: rgba(0, 0, 0, 0);
+    padding: 20px;
+    border-radius: 5px;
+    align-items: center;
+    text-align: center;
+}
+
+.login button{
+    background-color: orange;
+    color: black;
+    padding: 10px;
+    border: none;
+    cursor: pointer
+}
